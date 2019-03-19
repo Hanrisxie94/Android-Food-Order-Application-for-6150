@@ -1,8 +1,7 @@
 # AndroidEatIt
 tested on API 26, nexus4
 
- ● Used Firebase to store restaurant data, Applied MVC pattern design style for client
-side & server side.
+ ● Firebase is used to store restaurant data, and MVC pattern design style is adopted on the client side and server side.
 
  ● Provided sign in/sign up function, menu and food list loading, orders management
 process, and notifications for users
